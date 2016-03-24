@@ -1,0 +1,1 @@
+devenv CodeParser.sln /rebuild debug

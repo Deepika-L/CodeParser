@@ -1,0 +1,10 @@
+a comment // comment here
+another comment /*
+  a
+*/
+here are some punctuators .,;""{}[]()::+= -= *= /= ++ -- 
+some more stuff (abc{def}ghi[jkl]mno
+this is a "\"string test\" string";
+this is another "string test";
+Test
+a
