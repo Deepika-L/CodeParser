@@ -1,3 +1,12 @@
+//////////////////////////////////////////////////////////////////
+// MetricsExecutive.cpp - Metric Executive package              //
+//                                                              //
+// Application: Project 2 for CIS 687, Spring 2016              //
+// Platform:    HP dv6 Notebook, Windows 10, Visual Studio 2015 //
+// Author:      Deepika Lakshmanan                              //
+//              dlakshma@syr.edu                                //
+//////////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <string>
 #include <io.h>
